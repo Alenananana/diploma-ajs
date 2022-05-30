@@ -1,7 +1,7 @@
 {
   "name": "js-advanced-diploma",
   "version": "1.0.0",
-  "description": "Вы неплохо овладели не только продвинутыми возможностями JS, но и инфраструктурными инструментами. И вам поручили первый проект: разработать небольшую пошаговую игру.",
+  "description": "Diploma",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alenananana/js-advanced-diploma.git"
+    "url": "git+https://github.com/Alenananana/diploma-ajs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Alenananana/js-advanced-diploma/issues"
+    "url": "https://github.com/Alenananana/diploma-ajs/issues"
   },
-  "homepage": "https://github.com/Alenananana/js-advanced-diploma#readme",
+  "homepage": "https://github.com/Alenananana/diploma-ajs#readme",
   "devDependencies": {
     "@babel/preset-env": "^7.18.2",
     "babel-cli": "^6.26.0",
