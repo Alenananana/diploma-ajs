@@ -6,7 +6,7 @@ export default class Character {
     this.health = 100;
     this.type = type;
     if (new.target.name === 'Character') {
-      throw new Error('Нельзя создать новый характер');
+      throw new Error('You cannot create instances from the Character class');
     }
   }
 
